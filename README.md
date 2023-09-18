@@ -43,8 +43,11 @@ During my lectures, I discussed various built-in array methods that enable faste
 The timestamps for each section are as follows: 
 
 00:00-2:02: Introduction to Arrays
+
 2:03-4:37: How to Write an Array
+
 4:37-7:24: Important Considerations
+
 7:25-8:15: Conclusion
 
 🖥️🧾 If you're interested in getting the code, you can find it at https://github.com/hiteshchoudhary/. 
